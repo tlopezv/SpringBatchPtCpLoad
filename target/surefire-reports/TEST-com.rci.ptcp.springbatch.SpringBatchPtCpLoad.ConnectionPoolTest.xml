@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.078" errors="0" skipped="0" tests="1" name="com.rci.ptcp.springbatch.SpringBatchPtCpLoad.ConnectionPoolTest">
+  <properties>
+    <property name="uvrci.ht6.flexpath" value="D:/Public/Configuraciones/config_abaco/flex.properties"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\Public\jdk1.6.0_45\jre\bin"/>
+    <property name="java.vm.version" value="20.45-b01"/>
+    <property name="uvrci.ht5.iecipath" value="D:\Public\Configuraciones\config_abaco\ieci_service.properties"/>
+    <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+    <property name="java.vendor.url" value="http://java.sun.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="uvrci.ht5.confpath" value="D:\Public\Configuraciones\config_abaco\config"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="ES"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\LocalData\ps08148\workspace-Oxygen\SpringBatchPtCpLoad"/>
+    <property name="java.runtime.version" value="1.6.0_45-b06"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\Public\jdk1.6.0_45\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\ps08148\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.variant" value=""/>
+    <property name="reporting.desktop.path" value="D:\Public\Configuraciones\config_abaco\rp.properties"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="D:\LocalData\ps08148\workspace-Oxygen\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5663329169271238235.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\Public\jdk1.6.0_45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/Public/jdk1.8.0_171/bin/server;D:/Public/jdk1.8.0_171/bin;D:/Public/jdk1.8.0_171/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;D:\Public\Desarrollo\appbuilder;D:\Public\Desarrollo\jsbuilder;D:\Public\Desarrollo\command;D:\Public\Desarrollo;D:\Public\is01148-a\bin\Sencha\Cmd\4.0.5.87;D:\Public\SenchaSDKTools-1.2.3\appbuilder;D:\Public\SenchaSDKTools-1.2.3\jsbuilder;D:\Public\SenchaSDKTools-1.2.3\command;D:\Public\SenchaSDKTools-1.2.3;C:\Users\is01148-a\bin\Sencha\Cmd\4.0.5.87;C:\Program Files (x86)\Attachmate\Reflection\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\SafeNet\Authentication\SAC\x64;C:\Program Files\SafeNet\Authentication\SAC\x32;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\LocalData\ps08148\apache-maven-3.0.5/bin;D:\Public\jdk1.6.0_45/bin;D:\Public\SenchaSDKTools-1.2.3\appbuilder;D:\Public\SenchaSDKTools-1.2.3\command;D:\Public\SenchaSDKTools-1.2.3\jsbuilder;D:\Public\SenchaSDKTools-1.2.3;D:\Public\apache-ant\bin;D:\Public\eclipseOxygen\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="50.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="d:\LocalData\ps08148"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.6"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="ps08148"/>
+    <property name="java.class.path" value="D:\LocalData\ps08148\apache-maven-3.0.5\boot\plexus-classworlds-2.4.jar"/>
+    <property name="java.vm.specification.version" value="1.0"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="D:\Public\jdk1.6.0_45\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -s D:\LocalData\ps08148\apache-maven-3.0.5\conf\settings.xml install"/>
+    <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+    <property name="user.language" value="es"/>
+    <property name="uvrci.ht5.log4j.configurationSPA" value="D:\Public\Configuraciones\config_abaco\uvrci-log4j.properties"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.6.0_45"/>
+    <property name="java.ext.dirs" value="D:\Public\jdk1.6.0_45\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="uvrci.ht5.flexpath" value="D:\Public\Configuraciones\config_abaco\flex.properties"/>
+    <property name="sun.boot.class.path" value="D:\Public\jdk1.6.0_45\jre\lib\resources.jar;D:\Public\jdk1.6.0_45\jre\lib\rt.jar;D:\Public\jdk1.6.0_45\jre\lib\sunrsasign.jar;D:\Public\jdk1.6.0_45\jre\lib\jsse.jar;D:\Public\jdk1.6.0_45\jre\lib\jce.jar;D:\Public\jdk1.6.0_45\jre\lib\charsets.jar;D:\Public\jdk1.6.0_45\jre\lib\modules\jdk.boot.jar;D:\Public\jdk1.6.0_45\jre\classes"/>
+    <property name="java.vendor" value="Sun Microsystems Inc."/>
+    <property name="maven.home" value="D:\LocalData\ps08148\apache-maven-3.0.5"/>
+    <property name="file.separator" value="\"/>
+    <property name="oscache.config" value="D:\Public\Configuraciones\config_abaco\oscache.properties"/>
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="needsProxy" value="true"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+  </properties>
+  <testcase time="0" classname="com.rci.ptcp.springbatch.SpringBatchPtCpLoad.ConnectionPoolTest" name="runTest"/>
+</testsuite>

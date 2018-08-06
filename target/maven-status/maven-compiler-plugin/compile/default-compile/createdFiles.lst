@@ -1,0 +1,9 @@
+com\rci\ptcp\springbatch\dao\HibernateSessionFactory.class
+com\rci\ptcp\springbatch\dao\CodigosPostalesDAO.class
+com\rci\ptcp\springbatch\SpringBatchPtCpLoad\AppThread.class
+com\rci\ptcp\springbatch\CustomSkipListener.class
+com\rci\ptcp\springbatch\CodigosPostalesJobListener.class
+com\rci\ptcp\springbatch\SpringBatchPtCpLoad\App.class
+com\rci\ptcp\springbatch\CodigosPostalesItemProcessor.class
+com\rci\ptcp\springbatch\CodigosPostalesFieldSetMapper.class
+com\rci\ptcp\springbatch\model\CodigosPostales.class
